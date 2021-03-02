@@ -1,0 +1,32 @@
+got.faction.TARGARYEN.achieveRank=Заработайте %s репутации с фракцией Таргариены
+got.faction.TARGARYEN.achieveRankPledge=Присягните и заработайте %s репутации с фракцией Таргариены
+got.faction.TARGARYEN.entity=Таргариены
+got.faction.TARGARYEN.name=Таргариены
+got.faction.TARGARYEN.rank.warrior.f=Воин Таргариенов
+got.faction.TARGARYEN.rank.warrior=Воин
+got.faction.TARGARYEN.rank.commander.f=Лорд Таргариенов
+got.faction.TARGARYEN.rank.commander=Лорд
+got.faction.TARGARYEN.rank.kingsguard.f=Полководец Таргариенов
+got.faction.TARGARYEN.rank.kingsguard=Полководец
+got.faction.TARGARYEN.rank.friend.f=Друг Таргариенов
+got.faction.TARGARYEN.rank.friend=Друг
+got.faction.TARGARYEN.rank.guest.f=Гость Таргариенов
+got.faction.TARGARYEN.rank.guest=Гость
+got.faction.TARGARYEN.rank.general.f=Глава дома Таргариенов
+got.faction.TARGARYEN.rank.general=Глава дома
+got.faction.TARGARYEN.rank.leutenant.f=Капитан Таргариенов
+got.faction.TARGARYEN.rank.leutenant=Капитан
+got.faction.TARGARYEN.subtitle=Оставшиеся люди Таргариенов
+
+got.biome.targaryen=Земли Таргариенов
+
+got.invasion.TARGARYEN.horn=Призвать вторжение - Таргариены
+got.invasion.TARGARYEN=Таргариены
+
+entity.got.TargaryenMan.name=Подданный Таргариенов
+entity.got.TargaryenLevyman.name=Ополченец Таргариенов
+entity.got.TargaryenLevymanArcher.name=Ополченец-лучник Таргариенов
+entity.got.TargaryenSoldier.name=Воин Таргариенов
+entity.got.TargaryenSoldierArcher.name=Воин-лучник Таргариенов
+entity.got.TargaryenBannerBearer.name=Знаменосец Таргариенов
+entity.got.TargaryenCaptain.name=Командир Таргариенов

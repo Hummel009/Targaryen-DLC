@@ -1,0 +1,16 @@
+[
+{
+	"modid" : "targaryen",
+	"name" : "Targaryen DLC",
+	"version" : "16.2",
+	"credits" : "Hummel009",
+	"authorList": ["Hummel009"],
+	"description": "Powered by Hummel009",
+	"logoFile" : "assets/targaryen/logo.png",
+	"url" : "",
+	"updateUrl" : "",
+	"parent" : "",
+	"dependencies": [],
+	"screenshots": []
+}
+]
